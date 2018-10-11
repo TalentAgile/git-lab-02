@@ -1,0 +1,12 @@
+#content {
+    width: 80%;
+    margin: 80px auto;
+    border: 1px solid midnightblue;
+}
+
+#content h1 {
+    margin-top: 0;
+    padding: 20px;
+    background-color: midnightblue;
+    color: white;
+}
